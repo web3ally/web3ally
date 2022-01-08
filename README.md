@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @web3ally
 - 👀 I’m interested in DAOs, NFTs, and frontier technology
-- 🌱 I’m currently learning about Ethereum's virtual machine... please help 🙏
+- 🌱 I’m currently learning about Ethereum's virtual machine, please help 🙏😂
 - 📫 You can reach me on Twitter @web3ally
 
 <!---
